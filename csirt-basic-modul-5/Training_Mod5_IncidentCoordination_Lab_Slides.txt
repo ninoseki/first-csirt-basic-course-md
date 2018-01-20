@@ -1,0 +1,163 @@
+Lab for Module 5: Incident Coordination
+
+Copyright © by Forum of Incident Response and Security Teams, Inc.
+
+FIRST.Org is name under which Forum of Incident Response and Security Teams, Inc. conducts business.
+
+This training material is licensed under Creative Commons Attribution-Non-Commercial-Share-Alike 4.0 (CC BY-NC-SA 4.0)
+
+FIRST.Org makes no representation, express or implied, with regard to the accuracy of the information contained in this material and cannot accept any legal responsibility or liability for any errors or omissions that may be made.
+
+All trademarks are property of their respective owners.
+
+Permissions beyond the scope of this license may be available at first-licensing@first.org
+
+
+Copyright
+Lab Introduction
+Open your Lab Student Guide
+Your instructor will guide you through each step
+
+
+Lab Steps: Incident Response Process
+Detect
+Triage
+Analyze
+Respond
+Detect
+Triage
+Analyze
+Respond
+Sample Attack with Three Countries Involved
+Enemy-Land
+
+Main airport 
+Airport-Land
+Small airport 
+
+
+
+
+Small airport 
+Small-Land
+
+
+
+
+Scenario 1: Airport-Land ATC Goes Down
+Air traffic control system of the main airport is down
+Airport-Land
+Main airport 
+Small airport 
+What are the different entities that should take action?
+What should they do? Who does what?
+What mandates should they have?
+Who needs to get reports on the situation?
+What competencies/resources are needed to resolve the problem?
+Scenario 1: Questions
+Air traffic control system of the main airport is down
+Airport-Land
+
+Main airport 
+Small airport 
+
+
+
+Scenario 2: News Item
+DoS attacks attributed to the activist group "airport-hacked"
+Concerned communities:
+National (Airport-Land)
+International (Small-Land)
+Airport 
+Under 
+Attack!
+Cyber attack
+Cyber attack
+Airport System Attack
+DoS Attack
+Airport-Land
+Main airport 
+Small airport 
+
+
+
+
+Who owns the incident now?
+How should the CSIRT counter the attack? 
+Which important questions should be addressed?
+Should more partners be engaged?
+What mandates are needed?
+Should more partners be engaged? What is their role or function?
+Should the situation be escalated? If so, to whom?
+Scenario 2: Questions
+Airport-Land
+Small airport 
+
+Cyber attack
+Airport System Attack
+DoS Attack
+Main airport 
+
+
+
+Cyber attack
+
+
+
+Scenario 3: News Item
+Official news says neighboring 
+country may be responsible for attack
+Enemy-Land Strikes Airport-Land!
+Airport-Land
+Small airport 
+
+
+Cyber attack
+Airport System Attack
+DoS Attack
+Main airport 
+Cyber attack
+Is this a conflict between countries, or a broader problem?
+What questions should be raised?
+What could be the role of regional/international organizations?
+What diplomatic measures should be taken?
+What kind of "criminals" are we dealing with and how do we handle them?
+What is the best way to communicate with related businesses and the general public? 
+Scenario 3: Questions
+Airport-Land
+Small airport 
+
+
+Cyber attack
+Airport System Attack
+DoS Attack
+Main airport 
+
+
+
+Cyber attack
+Scenario 4: News Item
+Situation Critical!
+Plane Crash in 
+Airport-Land!
+What are the kinds of direct and indirect losses?
+Who is responsible and who shall pay the expenses incurred?
+What should be the role of the private airport and the state in this situation?
+What steps should be taken to prevent the situation from escalating?
+What kind of response from the international community would be a good practice? 
+What measures can be taken to prevent future incidents?
+Scenario 4: Questions
+What are follow-on actions to take at the international level?
+Damage has been inflicted upon other states. Who is responsible and who shall pay?
+Who should deal with "airport-hacked," and how?
+How can this situation be de-escalated and de-conflicted? What kind of international steps could help prevent such problems?
+How should the government act? How can states minimize their vulnerabilities? Focus on preparedness and proactive measures
+Scenario 4: Questions
+Here are some post-mortem session questions:
+What should have been done in advance to ensure better coordination during an attack? 
+Which government agencies, private companies, and local and regional security organizations should be included in your circle of contacts?
+Learning Check
+
+Training Module 5, Incident Coordination, Version 1, © 2016 FIRST
+
+

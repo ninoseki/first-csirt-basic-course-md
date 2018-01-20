@@ -1,0 +1,125 @@
+Lab for Module 4: Working with Information Sources
+
+Copyright © by Forum of Incident Response and Security Teams, Inc.
+
+FIRST.Org is name under which Forum of Incident Response and Security Teams, Inc. conducts business.
+
+This training material is licensed under Creative Commons Attribution-Non-Commercial-Share-Alike 4.0 (CC BY-NC-SA 4.0)
+
+FIRST.Org makes no representation, express or implied, with regard to the accuracy of the information contained in this material and cannot accept any legal responsibility or liability for any errors or omissions that may be made.
+
+All trademarks are property of their respective owners.
+
+Permissions beyond the scope of this license may be available at first-licensing@first.org
+
+
+Copyright
+Lab Introduction
+Open your Lab Student Guide
+Your instructor will guide you through each step
+
+For Each Scenario
+
+
+
+For each question in each scenario, ask:
+Which tools are appropriate for investigating the information presented in this question?
+Would you categorize this information as primary, secondary, or tertiary?
+Primary: the original source of a vulnerability
+Secondary: information derived from that primary information or from a security database, article, or journal 
+Tertiary: information derived from secondary information
+
+
+
+Vulnerability
+1
+2
+3
+You notice there is a system within your organization that is performing downloads from unusual domains on the Internet
+You find the system is Joan's computer in Finance
+You see that Joan's antivirus and system update processes are not active 
+You discover the first download was trafficconverter.biz and from then on there was the strange download every day
+You create a hash of the executable, 59c23e92625559f541b0cbed46f07dc, and find out that Norton named this worm "Conficker" and Symantec called it "W32.Downadup"
+Scenario 1: Incident Mitigation
+
+Training Module 4, Working with Information Sources, Version 1, © 2016 FIRST
+What can you find out from the network traffic log file?
+How could you determine that it was Joan's machine? 
+Is there any general information on the Web about malware that "disables antivirus software?" 
+What does a search indicate about the trafficconverter.biz site?
+What can you find out from the hash and what does it tell you? 
+What type of file is it and where does it run?
+What are the vulnerabilities that were exploited? 
+What could have been done to prevent this incident from arising within your organization? 
+What is the family of the malware, e.g., is it a virus, Trojan, or other type of malware? 
+Are your Windows 7 systems affected? 
+How can you determine whether other machines in your organization are infected? 
+Is this an advanced persistent threat (APT)? How can you tell? 
+What other useful information did you learn along the way that you can share? 
+
+Scenario 1 Questions: Incident Mitigation
+
+Training Module 4, Working with Information Sources, Version 1, © 2016 FIRST
+Scenario 1 Question Review
+What can you find out from the network traffic log file?
+How could you determine that it was Joan's machine? 
+
+Scenario 1 Question Review
+Is there any general information on the Web about malware that "disables antivirus software?" 
+What does a search indicate about the trafficconverter.biz site?
+Scenario 1 Question Review
+What can you find out from the hash and what does it tell you? 
+
+What type of file is it and where does it run?
+Scenario 1 Question Review
+What are the vulnerabilities that were exploited? 
+What could have been done to prevent this incident from arising within your organization? 
+Scenario 1 Question Review
+What is the family of the malware, e.g., is it a virus, Trojan, or other type of malware? 
+
+Are your Windows 7 systems affected? 
+Scenario 1 Question Review
+How can you determine whether other machines in your organization are infected? 
+Is this an advanced persistent threat (APT)? How can you tell? 
+Scenario 1 Question Review
+What other useful information did you learn along the way that you can share? 
+Symantec announced an Adobe zero-day was found by the security researcher Kafeine
+Adobe has confirmed this vulnerability and issued a security bulletin 
+The infection presents itself to users in two paths: 
+As an Adobe PDF file on spam email attachments that automatically download the malware
+Through "malvertizing" that pops up on unreliable web pages
+Scenario 2: Vulnerability Research
+
+Training Module 4, Working with Information Sources, Version 1, © 2016 FIRST
+What are some advisories of interest, articles, and blog posts that may be used as primary sources of information?
+If your organization runs Windows 8 and Internet Explorer 10, should you be concerned?
+According to NIST, what is the CVSS score (out of 10+10+10 or 30)? Does that make you more concerned or less?
+According to the Adobe Security Bulletin, what are the adverse effects of this malware?
+Which release or releases are the vulnerable ones?
+What are some ways to detect whether a computer has been infected by this vulnerability?
+What are the two ways your users can get the update?
+Based on your CSIRT policies, how will you communicate about this incident to your users? 
+What other useful information did you learn along the way that you can share? 
+Scenario 2 Questions: Vulnerability Research
+
+Training Module 4, Working with Information Sources, Version 1, © 2016 FIRST
+Scenario 2 Question Review
+What are some advisories of interest, articles, and blog posts that may be used as primary sources of information?
+If your organization runs Windows 8 and Internet Explorer 10, should you be concerned?
+Scenario 2 Question Review
+According to NIST, what is the CVSS score (out of 10+10+10 or 30)? Does that make you more concerned or less?
+According to the Adobe Security Bulletin, what are the adverse effects of this malware?
+Scenario 2 Question Review
+Which release or releases are the vulnerable ones?
+What are some ways to detect whether a computer has been infected by this vulnerability?
+Scenario 2 Question Review
+What are the two ways your users can get the update?
+Based on your CSIRT policies, how will you communicate about this incident to your users? 
+Scenario 2 Question Review
+What other useful information did you learn along the way that you can share? 
+How can dividing information into primary, secondary, and tertiary help in scenarios like the ones in this lab?
+Learning Check
+
+Training Module 4, Working with Information Sources, Version 1, © 2016 FIRST
+
+
